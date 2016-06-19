@@ -6,12 +6,18 @@
 .css3-colour-text-aliceblue {
   color: aliceblue;
 }
+.css3-colour-background-aliceblue {
+  background: aliceblue;
+}
 .css3-colour-antiquewhite {
   background: antiquewhite;
   color: black;
 }
 .css3-colour-text-antiquewhite {
   color: antiquewhite;
+}
+.css3-colour-background-antiquewhite {
+  background: antiquewhite;
 }
 .css3-colour-aqua {
   background: aqua;
@@ -20,12 +26,18 @@
 .css3-colour-text-aqua {
   color: aqua;
 }
+.css3-colour-background-aqua {
+  background: aqua;
+}
 .css3-colour-aquamarine {
   background: aquamarine;
   color: black;
 }
 .css3-colour-text-aquamarine {
   color: aquamarine;
+}
+.css3-colour-background-aquamarine {
+  background: aquamarine;
 }
 .css3-colour-azure {
   background: azure;
@@ -34,12 +46,18 @@
 .css3-colour-text-azure {
   color: azure;
 }
+.css3-colour-background-azure {
+  background: azure;
+}
 .css3-colour-beige {
   background: beige;
   color: black;
 }
 .css3-colour-text-beige {
   color: beige;
+}
+.css3-colour-background-beige {
+  background: beige;
 }
 .css3-colour-bisque {
   background: bisque;
@@ -48,12 +66,18 @@
 .css3-colour-text-bisque {
   color: bisque;
 }
+.css3-colour-background-bisque {
+  background: bisque;
+}
 .css3-colour-black {
   background: black;
   color: white;
 }
 .css3-colour-text-black {
   color: black;
+}
+.css3-colour-background-black {
+  background: black;
 }
 .css3-colour-blanchedalmond {
   background: blanchedalmond;
@@ -62,12 +86,18 @@
 .css3-colour-text-blanchedalmond {
   color: blanchedalmond;
 }
+.css3-colour-background-blanchedalmond {
+  background: blanchedalmond;
+}
 .css3-colour-blue {
   background: blue;
   color: white;
 }
 .css3-colour-text-blue {
   color: blue;
+}
+.css3-colour-background-blue {
+  background: blue;
 }
 .css3-colour-blueviolet {
   background: blueviolet;
@@ -76,12 +106,18 @@
 .css3-colour-text-blueviolet {
   color: blueviolet;
 }
+.css3-colour-background-blueviolet {
+  background: blueviolet;
+}
 .css3-colour-brown {
   background: brown;
   color: white;
 }
 .css3-colour-text-brown {
   color: brown;
+}
+.css3-colour-background-brown {
+  background: brown;
 }
 .css3-colour-burlywood {
   background: burlywood;
@@ -90,12 +126,18 @@
 .css3-colour-text-burlywood {
   color: burlywood;
 }
+.css3-colour-background-burlywood {
+  background: burlywood;
+}
 .css3-colour-cadetblue {
   background: cadetblue;
   color: black;
 }
 .css3-colour-text-cadetblue {
   color: cadetblue;
+}
+.css3-colour-background-cadetblue {
+  background: cadetblue;
 }
 .css3-colour-chartreuse {
   background: chartreuse;
@@ -104,12 +146,18 @@
 .css3-colour-text-chartreuse {
   color: chartreuse;
 }
+.css3-colour-background-chartreuse {
+  background: chartreuse;
+}
 .css3-colour-chocolate {
   background: chocolate;
   color: white;
 }
 .css3-colour-text-chocolate {
   color: chocolate;
+}
+.css3-colour-background-chocolate {
+  background: chocolate;
 }
 .css3-colour-coral {
   background: coral;
@@ -118,12 +166,18 @@
 .css3-colour-text-coral {
   color: coral;
 }
+.css3-colour-background-coral {
+  background: coral;
+}
 .css3-colour-cornflowerblue {
   background: cornflowerblue;
   color: black;
 }
 .css3-colour-text-cornflowerblue {
   color: cornflowerblue;
+}
+.css3-colour-background-cornflowerblue {
+  background: cornflowerblue;
 }
 .css3-colour-cornsilk {
   background: cornsilk;
@@ -132,12 +186,18 @@
 .css3-colour-text-cornsilk {
   color: cornsilk;
 }
+.css3-colour-background-cornsilk {
+  background: cornsilk;
+}
 .css3-colour-crimson {
   background: crimson;
   color: white;
 }
 .css3-colour-text-crimson {
   color: crimson;
+}
+.css3-colour-background-crimson {
+  background: crimson;
 }
 .css3-colour-cyan {
   background: cyan;
@@ -146,12 +206,18 @@
 .css3-colour-text-cyan {
   color: cyan;
 }
+.css3-colour-background-cyan {
+  background: cyan;
+}
 .css3-colour-darkblue {
   background: darkblue;
   color: white;
 }
 .css3-colour-text-darkblue {
   color: darkblue;
+}
+.css3-colour-background-darkblue {
+  background: darkblue;
 }
 .css3-colour-darkcyan {
   background: darkcyan;
@@ -160,12 +226,18 @@
 .css3-colour-text-darkcyan {
   color: darkcyan;
 }
+.css3-colour-background-darkcyan {
+  background: darkcyan;
+}
 .css3-colour-darkgoldenrod {
   background: darkgoldenrod;
   color: black;
 }
 .css3-colour-text-darkgoldenrod {
   color: darkgoldenrod;
+}
+.css3-colour-background-darkgoldenrod {
+  background: darkgoldenrod;
 }
 .css3-colour-darkgray {
   background: darkgray;
@@ -174,12 +246,18 @@
 .css3-colour-text-darkgray {
   color: darkgray;
 }
+.css3-colour-background-darkgray {
+  background: darkgray;
+}
 .css3-colour-darkgreen {
   background: darkgreen;
   color: white;
 }
 .css3-colour-text-darkgreen {
   color: darkgreen;
+}
+.css3-colour-background-darkgreen {
+  background: darkgreen;
 }
 .css3-colour-darkgrey {
   background: darkgrey;
@@ -188,12 +266,18 @@
 .css3-colour-text-darkgrey {
   color: darkgrey;
 }
+.css3-colour-background-darkgrey {
+  background: darkgrey;
+}
 .css3-colour-darkkhaki {
   background: darkkhaki;
   color: black;
 }
 .css3-colour-text-darkkhaki {
   color: darkkhaki;
+}
+.css3-colour-background-darkkhaki {
+  background: darkkhaki;
 }
 .css3-colour-darkmagenta {
   background: darkmagenta;
@@ -202,12 +286,18 @@
 .css3-colour-text-darkmagenta {
   color: darkmagenta;
 }
+.css3-colour-background-darkmagenta {
+  background: darkmagenta;
+}
 .css3-colour-darkolivegreen {
   background: darkolivegreen;
   color: white;
 }
 .css3-colour-text-darkolivegreen {
   color: darkolivegreen;
+}
+.css3-colour-background-darkolivegreen {
+  background: darkolivegreen;
 }
 .css3-colour-darkorange {
   background: darkorange;
@@ -216,12 +306,18 @@
 .css3-colour-text-darkorange {
   color: darkorange;
 }
+.css3-colour-background-darkorange {
+  background: darkorange;
+}
 .css3-colour-darkorchid {
   background: darkorchid;
   color: white;
 }
 .css3-colour-text-darkorchid {
   color: darkorchid;
+}
+.css3-colour-background-darkorchid {
+  background: darkorchid;
 }
 .css3-colour-darkred {
   background: darkred;
@@ -230,12 +326,18 @@
 .css3-colour-text-darkred {
   color: darkred;
 }
+.css3-colour-background-darkred {
+  background: darkred;
+}
 .css3-colour-darksalmon {
   background: darksalmon;
   color: black;
 }
 .css3-colour-text-darksalmon {
   color: darksalmon;
+}
+.css3-colour-background-darksalmon {
+  background: darksalmon;
 }
 .css3-colour-darkseagreen {
   background: darkseagreen;
@@ -244,12 +346,18 @@
 .css3-colour-text-darkseagreen {
   color: darkseagreen;
 }
+.css3-colour-background-darkseagreen {
+  background: darkseagreen;
+}
 .css3-colour-darkslateblue {
   background: darkslateblue;
   color: white;
 }
 .css3-colour-text-darkslateblue {
   color: darkslateblue;
+}
+.css3-colour-background-darkslateblue {
+  background: darkslateblue;
 }
 .css3-colour-darkslategray {
   background: darkslategray;
@@ -258,12 +366,18 @@
 .css3-colour-text-darkslategray {
   color: darkslategray;
 }
+.css3-colour-background-darkslategray {
+  background: darkslategray;
+}
 .css3-colour-darkslategrey {
   background: darkslategrey;
   color: white;
 }
 .css3-colour-text-darkslategrey {
   color: darkslategrey;
+}
+.css3-colour-background-darkslategrey {
+  background: darkslategrey;
 }
 .css3-colour-darkturquoise {
   background: darkturquoise;
@@ -272,12 +386,18 @@
 .css3-colour-text-darkturquoise {
   color: darkturquoise;
 }
+.css3-colour-background-darkturquoise {
+  background: darkturquoise;
+}
 .css3-colour-darkviolet {
   background: darkviolet;
   color: white;
 }
 .css3-colour-text-darkviolet {
   color: darkviolet;
+}
+.css3-colour-background-darkviolet {
+  background: darkviolet;
 }
 .css3-colour-deeppink {
   background: deeppink;
@@ -286,12 +406,18 @@
 .css3-colour-text-deeppink {
   color: deeppink;
 }
+.css3-colour-background-deeppink {
+  background: deeppink;
+}
 .css3-colour-deepskyblue {
   background: deepskyblue;
   color: black;
 }
 .css3-colour-text-deepskyblue {
   color: deepskyblue;
+}
+.css3-colour-background-deepskyblue {
+  background: deepskyblue;
 }
 .css3-colour-dimgray {
   background: dimgray;
@@ -300,12 +426,18 @@
 .css3-colour-text-dimgray {
   color: dimgray;
 }
+.css3-colour-background-dimgray {
+  background: dimgray;
+}
 .css3-colour-dimgrey {
   background: dimgrey;
   color: white;
 }
 .css3-colour-text-dimgrey {
   color: dimgrey;
+}
+.css3-colour-background-dimgrey {
+  background: dimgrey;
 }
 .css3-colour-dodgerblue {
   background: dodgerblue;
@@ -314,12 +446,18 @@
 .css3-colour-text-dodgerblue {
   color: dodgerblue;
 }
+.css3-colour-background-dodgerblue {
+  background: dodgerblue;
+}
 .css3-colour-firebrick {
   background: firebrick;
   color: white;
 }
 .css3-colour-text-firebrick {
   color: firebrick;
+}
+.css3-colour-background-firebrick {
+  background: firebrick;
 }
 .css3-colour-floralwhite {
   background: floralwhite;
@@ -328,12 +466,18 @@
 .css3-colour-text-floralwhite {
   color: floralwhite;
 }
+.css3-colour-background-floralwhite {
+  background: floralwhite;
+}
 .css3-colour-forestgreen {
   background: forestgreen;
   color: white;
 }
 .css3-colour-text-forestgreen {
   color: forestgreen;
+}
+.css3-colour-background-forestgreen {
+  background: forestgreen;
 }
 .css3-colour-fuchsia {
   background: fuchsia;
@@ -342,12 +486,18 @@
 .css3-colour-text-fuchsia {
   color: fuchsia;
 }
+.css3-colour-background-fuchsia {
+  background: fuchsia;
+}
 .css3-colour-gainsboro {
   background: gainsboro;
   color: black;
 }
 .css3-colour-text-gainsboro {
   color: gainsboro;
+}
+.css3-colour-background-gainsboro {
+  background: gainsboro;
 }
 .css3-colour-ghostwhite {
   background: ghostwhite;
@@ -356,12 +506,18 @@
 .css3-colour-text-ghostwhite {
   color: ghostwhite;
 }
+.css3-colour-background-ghostwhite {
+  background: ghostwhite;
+}
 .css3-colour-gold {
   background: gold;
   color: black;
 }
 .css3-colour-text-gold {
   color: gold;
+}
+.css3-colour-background-gold {
+  background: gold;
 }
 .css3-colour-goldenrod {
   background: goldenrod;
@@ -370,12 +526,18 @@
 .css3-colour-text-goldenrod {
   color: goldenrod;
 }
+.css3-colour-background-goldenrod {
+  background: goldenrod;
+}
 .css3-colour-gray {
   background: gray;
   color: white;
 }
 .css3-colour-text-gray {
   color: gray;
+}
+.css3-colour-background-gray {
+  background: gray;
 }
 .css3-colour-green {
   background: green;
@@ -384,12 +546,18 @@
 .css3-colour-text-green {
   color: green;
 }
+.css3-colour-background-green {
+  background: green;
+}
 .css3-colour-greenyellow {
   background: greenyellow;
   color: black;
 }
 .css3-colour-text-greenyellow {
   color: greenyellow;
+}
+.css3-colour-background-greenyellow {
+  background: greenyellow;
 }
 .css3-colour-grey {
   background: grey;
@@ -398,12 +566,18 @@
 .css3-colour-text-grey {
   color: grey;
 }
+.css3-colour-background-grey {
+  background: grey;
+}
 .css3-colour-honeydew {
   background: honeydew;
   color: black;
 }
 .css3-colour-text-honeydew {
   color: honeydew;
+}
+.css3-colour-background-honeydew {
+  background: honeydew;
 }
 .css3-colour-hotpink {
   background: hotpink;
@@ -412,12 +586,18 @@
 .css3-colour-text-hotpink {
   color: hotpink;
 }
+.css3-colour-background-hotpink {
+  background: hotpink;
+}
 .css3-colour-indianred {
   background: indianred;
   color: white;
 }
 .css3-colour-text-indianred {
   color: indianred;
+}
+.css3-colour-background-indianred {
+  background: indianred;
 }
 .css3-colour-indigo {
   background: indigo;
@@ -426,12 +606,18 @@
 .css3-colour-text-indigo {
   color: indigo;
 }
+.css3-colour-background-indigo {
+  background: indigo;
+}
 .css3-colour-ivory {
   background: ivory;
   color: black;
 }
 .css3-colour-text-ivory {
   color: ivory;
+}
+.css3-colour-background-ivory {
+  background: ivory;
 }
 .css3-colour-khaki {
   background: khaki;
@@ -440,12 +626,18 @@
 .css3-colour-text-khaki {
   color: khaki;
 }
+.css3-colour-background-khaki {
+  background: khaki;
+}
 .css3-colour-lavender {
   background: lavender;
   color: black;
 }
 .css3-colour-text-lavender {
   color: lavender;
+}
+.css3-colour-background-lavender {
+  background: lavender;
 }
 .css3-colour-lavenderblush {
   background: lavenderblush;
@@ -454,12 +646,18 @@
 .css3-colour-text-lavenderblush {
   color: lavenderblush;
 }
+.css3-colour-background-lavenderblush {
+  background: lavenderblush;
+}
 .css3-colour-lawngreen {
   background: lawngreen;
   color: black;
 }
 .css3-colour-text-lawngreen {
   color: lawngreen;
+}
+.css3-colour-background-lawngreen {
+  background: lawngreen;
 }
 .css3-colour-lemonchiffon {
   background: lemonchiffon;
@@ -468,12 +666,18 @@
 .css3-colour-text-lemonchiffon {
   color: lemonchiffon;
 }
+.css3-colour-background-lemonchiffon {
+  background: lemonchiffon;
+}
 .css3-colour-lightblue {
   background: lightblue;
   color: black;
 }
 .css3-colour-text-lightblue {
   color: lightblue;
+}
+.css3-colour-background-lightblue {
+  background: lightblue;
 }
 .css3-colour-lightcoral {
   background: lightcoral;
@@ -482,12 +686,18 @@
 .css3-colour-text-lightcoral {
   color: lightcoral;
 }
+.css3-colour-background-lightcoral {
+  background: lightcoral;
+}
 .css3-colour-lightcyan {
   background: lightcyan;
   color: black;
 }
 .css3-colour-text-lightcyan {
   color: lightcyan;
+}
+.css3-colour-background-lightcyan {
+  background: lightcyan;
 }
 .css3-colour-lightgoldenrodyellow {
   background: lightgoldenrodyellow;
@@ -496,12 +706,18 @@
 .css3-colour-text-lightgoldenrodyellow {
   color: lightgoldenrodyellow;
 }
+.css3-colour-background-lightgoldenrodyellow {
+  background: lightgoldenrodyellow;
+}
 .css3-colour-lightgray {
   background: lightgray;
   color: black;
 }
 .css3-colour-text-lightgray {
   color: lightgray;
+}
+.css3-colour-background-lightgray {
+  background: lightgray;
 }
 .css3-colour-lightgreen {
   background: lightgreen;
@@ -510,12 +726,18 @@
 .css3-colour-text-lightgreen {
   color: lightgreen;
 }
+.css3-colour-background-lightgreen {
+  background: lightgreen;
+}
 .css3-colour-lightgrey {
   background: lightgrey;
   color: black;
 }
 .css3-colour-text-lightgrey {
   color: lightgrey;
+}
+.css3-colour-background-lightgrey {
+  background: lightgrey;
 }
 .css3-colour-lightpink {
   background: lightpink;
@@ -524,12 +746,18 @@
 .css3-colour-text-lightpink {
   color: lightpink;
 }
+.css3-colour-background-lightpink {
+  background: lightpink;
+}
 .css3-colour-lightsalmon {
   background: lightsalmon;
   color: black;
 }
 .css3-colour-text-lightsalmon {
   color: lightsalmon;
+}
+.css3-colour-background-lightsalmon {
+  background: lightsalmon;
 }
 .css3-colour-lightseagreen {
   background: lightseagreen;
@@ -538,12 +766,18 @@
 .css3-colour-text-lightseagreen {
   color: lightseagreen;
 }
+.css3-colour-background-lightseagreen {
+  background: lightseagreen;
+}
 .css3-colour-lightskyblue {
   background: lightskyblue;
   color: black;
 }
 .css3-colour-text-lightskyblue {
   color: lightskyblue;
+}
+.css3-colour-background-lightskyblue {
+  background: lightskyblue;
 }
 .css3-colour-lightslategray {
   background: lightslategray;
@@ -552,12 +786,18 @@
 .css3-colour-text-lightslategray {
   color: lightslategray;
 }
+.css3-colour-background-lightslategray {
+  background: lightslategray;
+}
 .css3-colour-lightslategrey {
   background: lightslategrey;
   color: black;
 }
 .css3-colour-text-lightslategrey {
   color: lightslategrey;
+}
+.css3-colour-background-lightslategrey {
+  background: lightslategrey;
 }
 .css3-colour-lightsteelblue {
   background: lightsteelblue;
@@ -566,12 +806,18 @@
 .css3-colour-text-lightsteelblue {
   color: lightsteelblue;
 }
+.css3-colour-background-lightsteelblue {
+  background: lightsteelblue;
+}
 .css3-colour-lightyellow {
   background: lightyellow;
   color: black;
 }
 .css3-colour-text-lightyellow {
   color: lightyellow;
+}
+.css3-colour-background-lightyellow {
+  background: lightyellow;
 }
 .css3-colour-lime {
   background: lime;
@@ -580,12 +826,18 @@
 .css3-colour-text-lime {
   color: lime;
 }
+.css3-colour-background-lime {
+  background: lime;
+}
 .css3-colour-limegreen {
   background: limegreen;
   color: black;
 }
 .css3-colour-text-limegreen {
   color: limegreen;
+}
+.css3-colour-background-limegreen {
+  background: limegreen;
 }
 .css3-colour-linen {
   background: linen;
@@ -594,12 +846,18 @@
 .css3-colour-text-linen {
   color: linen;
 }
+.css3-colour-background-linen {
+  background: linen;
+}
 .css3-colour-magenta {
   background: magenta;
   color: white;
 }
 .css3-colour-text-magenta {
   color: magenta;
+}
+.css3-colour-background-magenta {
+  background: magenta;
 }
 .css3-colour-maroon {
   background: maroon;
@@ -608,12 +866,18 @@
 .css3-colour-text-maroon {
   color: maroon;
 }
+.css3-colour-background-maroon {
+  background: maroon;
+}
 .css3-colour-mediumaquamarine {
   background: mediumaquamarine;
   color: black;
 }
 .css3-colour-text-mediumaquamarine {
   color: mediumaquamarine;
+}
+.css3-colour-background-mediumaquamarine {
+  background: mediumaquamarine;
 }
 .css3-colour-mediumblue {
   background: mediumblue;
@@ -622,12 +886,18 @@
 .css3-colour-text-mediumblue {
   color: mediumblue;
 }
+.css3-colour-background-mediumblue {
+  background: mediumblue;
+}
 .css3-colour-mediumorchid {
   background: mediumorchid;
   color: white;
 }
 .css3-colour-text-mediumorchid {
   color: mediumorchid;
+}
+.css3-colour-background-mediumorchid {
+  background: mediumorchid;
 }
 .css3-colour-mediumpurple {
   background: mediumpurple;
@@ -636,12 +906,18 @@
 .css3-colour-text-mediumpurple {
   color: mediumpurple;
 }
+.css3-colour-background-mediumpurple {
+  background: mediumpurple;
+}
 .css3-colour-mediumseagreen {
   background: mediumseagreen;
   color: black;
 }
 .css3-colour-text-mediumseagreen {
   color: mediumseagreen;
+}
+.css3-colour-background-mediumseagreen {
+  background: mediumseagreen;
 }
 .css3-colour-mediumslateblue {
   background: mediumslateblue;
@@ -650,12 +926,18 @@
 .css3-colour-text-mediumslateblue {
   color: mediumslateblue;
 }
+.css3-colour-background-mediumslateblue {
+  background: mediumslateblue;
+}
 .css3-colour-mediumspringgreen {
   background: mediumspringgreen;
   color: black;
 }
 .css3-colour-text-mediumspringgreen {
   color: mediumspringgreen;
+}
+.css3-colour-background-mediumspringgreen {
+  background: mediumspringgreen;
 }
 .css3-colour-mediumturquoise {
   background: mediumturquoise;
@@ -664,12 +946,18 @@
 .css3-colour-text-mediumturquoise {
   color: mediumturquoise;
 }
+.css3-colour-background-mediumturquoise {
+  background: mediumturquoise;
+}
 .css3-colour-mediumvioletred {
   background: mediumvioletred;
   color: white;
 }
 .css3-colour-text-mediumvioletred {
   color: mediumvioletred;
+}
+.css3-colour-background-mediumvioletred {
+  background: mediumvioletred;
 }
 .css3-colour-midnightblue {
   background: midnightblue;
@@ -678,12 +966,18 @@
 .css3-colour-text-midnightblue {
   color: midnightblue;
 }
+.css3-colour-background-midnightblue {
+  background: midnightblue;
+}
 .css3-colour-mintcream {
   background: mintcream;
   color: black;
 }
 .css3-colour-text-mintcream {
   color: mintcream;
+}
+.css3-colour-background-mintcream {
+  background: mintcream;
 }
 .css3-colour-mistyrose {
   background: mistyrose;
@@ -692,12 +986,18 @@
 .css3-colour-text-mistyrose {
   color: mistyrose;
 }
+.css3-colour-background-mistyrose {
+  background: mistyrose;
+}
 .css3-colour-moccasin {
   background: moccasin;
   color: black;
 }
 .css3-colour-text-moccasin {
   color: moccasin;
+}
+.css3-colour-background-moccasin {
+  background: moccasin;
 }
 .css3-colour-navajowhite {
   background: navajowhite;
@@ -706,12 +1006,18 @@
 .css3-colour-text-navajowhite {
   color: navajowhite;
 }
+.css3-colour-background-navajowhite {
+  background: navajowhite;
+}
 .css3-colour-navy {
   background: navy;
   color: white;
 }
 .css3-colour-text-navy {
   color: navy;
+}
+.css3-colour-background-navy {
+  background: navy;
 }
 .css3-colour-oldlace {
   background: oldlace;
@@ -720,12 +1026,18 @@
 .css3-colour-text-oldlace {
   color: oldlace;
 }
+.css3-colour-background-oldlace {
+  background: oldlace;
+}
 .css3-colour-olive {
   background: olive;
   color: white;
 }
 .css3-colour-text-olive {
   color: olive;
+}
+.css3-colour-background-olive {
+  background: olive;
 }
 .css3-colour-olivedrab {
   background: olivedrab;
@@ -734,12 +1046,18 @@
 .css3-colour-text-olivedrab {
   color: olivedrab;
 }
+.css3-colour-background-olivedrab {
+  background: olivedrab;
+}
 .css3-colour-orange {
   background: orange;
   color: black;
 }
 .css3-colour-text-orange {
   color: orange;
+}
+.css3-colour-background-orange {
+  background: orange;
 }
 .css3-colour-orangered {
   background: orangered;
@@ -748,12 +1066,18 @@
 .css3-colour-text-orangered {
   color: orangered;
 }
+.css3-colour-background-orangered {
+  background: orangered;
+}
 .css3-colour-orchid {
   background: orchid;
   color: black;
 }
 .css3-colour-text-orchid {
   color: orchid;
+}
+.css3-colour-background-orchid {
+  background: orchid;
 }
 .css3-colour-palegoldenrod {
   background: palegoldenrod;
@@ -762,12 +1086,18 @@
 .css3-colour-text-palegoldenrod {
   color: palegoldenrod;
 }
+.css3-colour-background-palegoldenrod {
+  background: palegoldenrod;
+}
 .css3-colour-palegreen {
   background: palegreen;
   color: black;
 }
 .css3-colour-text-palegreen {
   color: palegreen;
+}
+.css3-colour-background-palegreen {
+  background: palegreen;
 }
 .css3-colour-paleturquoise {
   background: paleturquoise;
@@ -776,12 +1106,18 @@
 .css3-colour-text-paleturquoise {
   color: paleturquoise;
 }
+.css3-colour-background-paleturquoise {
+  background: paleturquoise;
+}
 .css3-colour-palevioletred {
   background: palevioletred;
   color: black;
 }
 .css3-colour-text-palevioletred {
   color: palevioletred;
+}
+.css3-colour-background-palevioletred {
+  background: palevioletred;
 }
 .css3-colour-papayawhip {
   background: papayawhip;
@@ -790,12 +1126,18 @@
 .css3-colour-text-papayawhip {
   color: papayawhip;
 }
+.css3-colour-background-papayawhip {
+  background: papayawhip;
+}
 .css3-colour-peachpuff {
   background: peachpuff;
   color: black;
 }
 .css3-colour-text-peachpuff {
   color: peachpuff;
+}
+.css3-colour-background-peachpuff {
+  background: peachpuff;
 }
 .css3-colour-peru {
   background: peru;
@@ -804,12 +1146,18 @@
 .css3-colour-text-peru {
   color: peru;
 }
+.css3-colour-background-peru {
+  background: peru;
+}
 .css3-colour-pink {
   background: pink;
   color: black;
 }
 .css3-colour-text-pink {
   color: pink;
+}
+.css3-colour-background-pink {
+  background: pink;
 }
 .css3-colour-plum {
   background: plum;
@@ -818,12 +1166,18 @@
 .css3-colour-text-plum {
   color: plum;
 }
+.css3-colour-background-plum {
+  background: plum;
+}
 .css3-colour-powderblue {
   background: powderblue;
   color: black;
 }
 .css3-colour-text-powderblue {
   color: powderblue;
+}
+.css3-colour-background-powderblue {
+  background: powderblue;
 }
 .css3-colour-purple {
   background: purple;
@@ -832,12 +1186,18 @@
 .css3-colour-text-purple {
   color: purple;
 }
+.css3-colour-background-purple {
+  background: purple;
+}
 .css3-colour-red {
   background: red;
   color: white;
 }
 .css3-colour-text-red {
   color: red;
+}
+.css3-colour-background-red {
+  background: red;
 }
 .css3-colour-rosybrown {
   background: rosybrown;
@@ -846,12 +1206,18 @@
 .css3-colour-text-rosybrown {
   color: rosybrown;
 }
+.css3-colour-background-rosybrown {
+  background: rosybrown;
+}
 .css3-colour-royalblue {
   background: royalblue;
   color: white;
 }
 .css3-colour-text-royalblue {
   color: royalblue;
+}
+.css3-colour-background-royalblue {
+  background: royalblue;
 }
 .css3-colour-saddlebrown {
   background: saddlebrown;
@@ -860,12 +1226,18 @@
 .css3-colour-text-saddlebrown {
   color: saddlebrown;
 }
+.css3-colour-background-saddlebrown {
+  background: saddlebrown;
+}
 .css3-colour-salmon {
   background: salmon;
   color: black;
 }
 .css3-colour-text-salmon {
   color: salmon;
+}
+.css3-colour-background-salmon {
+  background: salmon;
 }
 .css3-colour-sandybrown {
   background: sandybrown;
@@ -874,12 +1246,18 @@
 .css3-colour-text-sandybrown {
   color: sandybrown;
 }
+.css3-colour-background-sandybrown {
+  background: sandybrown;
+}
 .css3-colour-seagreen {
   background: seagreen;
   color: white;
 }
 .css3-colour-text-seagreen {
   color: seagreen;
+}
+.css3-colour-background-seagreen {
+  background: seagreen;
 }
 .css3-colour-seashell {
   background: seashell;
@@ -888,12 +1266,18 @@
 .css3-colour-text-seashell {
   color: seashell;
 }
+.css3-colour-background-seashell {
+  background: seashell;
+}
 .css3-colour-sienna {
   background: sienna;
   color: white;
 }
 .css3-colour-text-sienna {
   color: sienna;
+}
+.css3-colour-background-sienna {
+  background: sienna;
 }
 .css3-colour-silver {
   background: silver;
@@ -902,12 +1286,18 @@
 .css3-colour-text-silver {
   color: silver;
 }
+.css3-colour-background-silver {
+  background: silver;
+}
 .css3-colour-skyblue {
   background: skyblue;
   color: black;
 }
 .css3-colour-text-skyblue {
   color: skyblue;
+}
+.css3-colour-background-skyblue {
+  background: skyblue;
 }
 .css3-colour-slateblue {
   background: slateblue;
@@ -916,12 +1306,18 @@
 .css3-colour-text-slateblue {
   color: slateblue;
 }
+.css3-colour-background-slateblue {
+  background: slateblue;
+}
 .css3-colour-slategray {
   background: slategray;
   color: white;
 }
 .css3-colour-text-slategray {
   color: slategray;
+}
+.css3-colour-background-slategray {
+  background: slategray;
 }
 .css3-colour-slategrey {
   background: slategrey;
@@ -930,12 +1326,18 @@
 .css3-colour-text-slategrey {
   color: slategrey;
 }
+.css3-colour-background-slategrey {
+  background: slategrey;
+}
 .css3-colour-snow {
   background: snow;
   color: black;
 }
 .css3-colour-text-snow {
   color: snow;
+}
+.css3-colour-background-snow {
+  background: snow;
 }
 .css3-colour-springgreen {
   background: springgreen;
@@ -944,12 +1346,18 @@
 .css3-colour-text-springgreen {
   color: springgreen;
 }
+.css3-colour-background-springgreen {
+  background: springgreen;
+}
 .css3-colour-steelblue {
   background: steelblue;
   color: white;
 }
 .css3-colour-text-steelblue {
   color: steelblue;
+}
+.css3-colour-background-steelblue {
+  background: steelblue;
 }
 .css3-colour-tan {
   background: tan;
@@ -958,12 +1366,18 @@
 .css3-colour-text-tan {
   color: tan;
 }
+.css3-colour-background-tan {
+  background: tan;
+}
 .css3-colour-teal {
   background: teal;
   color: white;
 }
 .css3-colour-text-teal {
   color: teal;
+}
+.css3-colour-background-teal {
+  background: teal;
 }
 .css3-colour-thistle {
   background: thistle;
@@ -972,12 +1386,18 @@
 .css3-colour-text-thistle {
   color: thistle;
 }
+.css3-colour-background-thistle {
+  background: thistle;
+}
 .css3-colour-tomato {
   background: tomato;
   color: black;
 }
 .css3-colour-text-tomato {
   color: tomato;
+}
+.css3-colour-background-tomato {
+  background: tomato;
 }
 .css3-colour-turquoise {
   background: turquoise;
@@ -986,12 +1406,18 @@
 .css3-colour-text-turquoise {
   color: turquoise;
 }
+.css3-colour-background-turquoise {
+  background: turquoise;
+}
 .css3-colour-violet {
   background: violet;
   color: black;
 }
 .css3-colour-text-violet {
   color: violet;
+}
+.css3-colour-background-violet {
+  background: violet;
 }
 .css3-colour-wheat {
   background: wheat;
@@ -1000,12 +1426,18 @@
 .css3-colour-text-wheat {
   color: wheat;
 }
+.css3-colour-background-wheat {
+  background: wheat;
+}
 .css3-colour-white {
   background: white;
   color: black;
 }
 .css3-colour-text-white {
   color: white;
+}
+.css3-colour-background-white {
+  background: white;
 }
 .css3-colour-whitesmoke {
   background: whitesmoke;
@@ -1014,6 +1446,9 @@
 .css3-colour-text-whitesmoke {
   color: whitesmoke;
 }
+.css3-colour-background-whitesmoke {
+  background: whitesmoke;
+}
 .css3-colour-yellow {
   background: yellow;
   color: black;
@@ -1021,10 +1456,16 @@
 .css3-colour-text-yellow {
   color: yellow;
 }
+.css3-colour-background-yellow {
+  background: yellow;
+}
 .css3-colour-yellowgreen {
   background: yellowgreen;
   color: black;
 }
 .css3-colour-text-yellowgreen {
   color: yellowgreen;
+}
+.css3-colour-background-yellowgreen {
+  background: yellowgreen;
 }
